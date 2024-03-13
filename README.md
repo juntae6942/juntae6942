@@ -1,6 +1,6 @@
 # Project 💻
-  - 2023 뛰슈
-  - 2024 트렌디톤 Coy project(최우수상)
+  - 2023 뛰슈, Back-end (우수상)
+  - 2024 트렌디톤 Coy project, Back-end (최우수상)
 
 # Stack 💻
 
