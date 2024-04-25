@@ -1,4 +1,4 @@
-# EDUCATION
+# Education
    Chungnam National University   
    Junior student   
    Computer Vision in DIPLAB   
