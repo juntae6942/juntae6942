@@ -1,8 +1,8 @@
-# Education
+# Education 📖
    Chungnam National University   
    Junior student   
    Computer Vision in DIPLAB   
-# Contact
+# Contact 🤝🏻
    ✉️**email** : juntae6942@o.cnu.ac.kr  
    📸**Instagram** : [juuuun.o_o](https://www.instagram.com/juuuun.o_o/)  
    🗒️**blog** : [parkjunbackend.tistory.com](https://parkjunbackend.tistory.com/)  
