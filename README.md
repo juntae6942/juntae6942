@@ -10,7 +10,7 @@
   - 2023 *뛰슈*, Back-end **(우수상)**
   - 2024 트렌디톤 *Coy project*, Back-end **(최우수상)**  
   
-# Stack 💻
+# Stack&Experience 💻
 
 <!--
 **juntae6942/juntae6942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
