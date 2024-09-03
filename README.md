@@ -6,12 +6,12 @@
    - 📸 **Instagram** : [juuuun.o_o](https://www.instagram.com/juuuun.o_o/)  
    - 🗒️ **blog** : [parkjunbackend.tistory.com](https://parkjunbackend.tistory.com/)  
   
-# Project 💻
+# Project & Experience 💻
   - 2023 *뛰슈*, Back-end **(우수상)**
   - 2024 트렌디톤 *Coy project*, Back-end **(최우수상)**
   - 2024 한국정보과학회(KCC) 학부연구생 논문 제출(Data Augmentation Using Autoencoder)
-  
-# Stack&Experience 💻
+  - 가온플랫폼 인턴 근무
+# Stack 💻
 
 <!--
 **juntae6942/juntae6942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
