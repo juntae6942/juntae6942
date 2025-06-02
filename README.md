@@ -13,6 +13,7 @@
   - 2024 한국정보과학회(KCC) 학부연구생 논문 제출(Data Augmentation Using Autoencoder)
   - 2024 가온플랫폼 인턴 근무
   - 2024 [제 4회 KOPIS 빅데이터 공모전] *MUSEE*, Back-end **서비스 개발 부문(진흥상)**
+  - Basic Proficiency in KNIME Analytics Platform 취득
 # Stack 💻
 
 <!--
