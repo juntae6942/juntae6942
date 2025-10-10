@@ -5,7 +5,8 @@
 # Contact 🤝🏻
    - ✉️ **email** : park.juntae6942@gmail.com  
    - 📸 **Instagram** : [juuuun.o_o](https://www.instagram.com/juuuun.o_o/)  
-   - 🗒️ **blog** : [parkjunbackend.tistory.com](https://parkjunbackend.tistory.com/)  
+   - 🗒️ **blog** : [parkjunbackend.tistory.com](https://parkjunbackend.tistory.com/)
+   - 🤝🏻 **LinkedIn** : [juntae park](https://www.linkedin.com/in/juntae--park)
 # Certificate
    - 2024 SQLD 취득
    - 2025 Basic Proficiency in KNIME Analytics Platform 취득(KNIME L1)
