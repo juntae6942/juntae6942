@@ -3,7 +3,7 @@
    - Computer Vision in DIPLAB
    - Qualcomm AI Camp at UCSD
 # Contact 🤝🏻
-   - ✉️ **email** : juntae6942@o.cnu.ac.kr  
+   - ✉️ **email** : park.juntae6942@gmail.com  
    - 📸 **Instagram** : [juuuun.o_o](https://www.instagram.com/juuuun.o_o/)  
    - 🗒️ **blog** : [parkjunbackend.tistory.com](https://parkjunbackend.tistory.com/)  
 # Certificate
