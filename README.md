@@ -17,5 +17,7 @@
   - 2024 가온플랫폼 인턴 근무
   - 2024 [제 4회 KOPIS 빅데이터 공모전] *MUSEE*, Back-end **서비스 개발 부문(진흥상)**
   - 2025 VISTA 창업 프로젝트 참여
+# Contribute  
+  - https://github.com/swagger-api/swagger-core/pull/4975
 # Stack 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1751506381853?alt=media&token=2714b79a-eb29-4409-96d3-60966a8ef3bf)](https://github.com/msdio/stackticon)
