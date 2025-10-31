@@ -20,5 +20,6 @@
   - 2025 한국ITS학회 추계학술대회 포스터 논문 제출(A Multi-Attribute Utility Function Based Personalized Route Recommendation Algorithm)
 # Contribute  
   - https://github.com/swagger-api/swagger-core/pull/4975
+  - https://github.com/swagger-api/swagger-core/pull/5005
 # Stack 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1751506381853?alt=media&token=2714b79a-eb29-4409-96d3-60966a8ef3bf)](https://github.com/msdio/stackticon)
