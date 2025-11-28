@@ -16,7 +16,7 @@
   - 2024 한국정보과학회(KCC) 학부연구생 논문 제출(Data Augmentation Using Autoencoder)
   - 2024 가온플랫폼 인턴 근무
   - 2024 [제 4회 KOPIS 빅데이터 공모전] *MUSEE*, Back-end **서비스 개발 부문(진흥상)**
-  - 2025 VISTA 창업 프로젝트 참여
+  - 2025 사용자 맞춤 STR(Speak to Route) 서비스 VISTA 창업 프로젝트 참여
   - 2025 한국ITS학회 추계학술대회 포스터 논문 제출(A Multi-Attribute Utility Function Based Personalized Route Recommendation Algorithm)
   - 2025 [2025 국토교통 서비스 아이디어 모델 발굴 경연] *VISTA*, Back-end **한국교통연구원 원장상(우수상)**
 # Contribute  
