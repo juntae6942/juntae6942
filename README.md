@@ -11,7 +11,7 @@
    - 2024 SQLD 취득
    - 2025 Basic Proficiency in KNIME Analytics Platform 취득(KNIME L1)
 # Project & Experience 
-  - 2023 *뛰슈*, Back-end **(우수상)**
+  - 2023 학습동아리 *뛰슈*, Back-end **(우수상)**
   - 2024 트렌디톤 *Coy project*, Back-end **(최우수상)**
   - 2024 한국정보과학회(KCC) 학부연구생 논문 제출(Data Augmentation Using Autoencoder)
   - 2024 가온플랫폼 인턴 근무
