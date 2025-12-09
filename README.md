@@ -20,6 +20,7 @@
   - 2025 한국ITS학회 추계학술대회 포스터 논문 제출(A Multi-Attribute Utility Function Based Personalized Route Recommendation Algorithm)
   - 2025 [2025 국토교통 서비스 아이디어 모델 발굴 경연] *VISTA*, Back-end **한국교통연구원 원장상(우수상)**
 # Contribute  
+  - https://github.com/spring-projects/spring-framework/pull/35477
   - https://github.com/swagger-api/swagger-core/pull/4975
   - https://github.com/swagger-api/swagger-core/pull/5005
 # Stack 
