@@ -10,6 +10,7 @@
 # Certificate 
    - 2024 SQLD 취득
    - 2025 Basic Proficiency in KNIME Analytics Platform 취득(KNIME L1)
+   - 2025 AWS Cloud Practitioner Essentials(https://www.aws.training/Details/InstructorLedTraining?id=168865)
 # Project & Experience 
   - 2023 학습동아리 *뛰슈*, Back-end **(우수상)**
   - 2024 트렌디톤 *Coy project*, Back-end **(최우수상)**
