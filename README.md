@@ -2,6 +2,7 @@
    - Chungnam National University   
    - Computer Vision in DIPLAB
    - Qualcomm AI Camp at UCSD
+   - Woowa Tech Course 8th Batch
 # Contact 
    - ✉️ **email** : park.juntae6942@gmail.com  
    - 📸 **Instagram** : [juuuun.o_o](https://www.instagram.com/juuuun.o_o/)  
