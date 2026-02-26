@@ -26,7 +26,7 @@
   - 2026 한국통신학회(KICS) 동계종합학술발표회 포스터 논문 제출(Development of a Machine Learning–based Aircraft Damage Prediction Model for Bird Strikes)
 
 # Contribute  
-  - https://github.com/spring-projects/spring-framework/pull/35477(https://github.com/spring-projects/spring-framework/commit/47de8b05e68ce3819181748c194a2e64c9c5dcbf)
+  - https://github.com/spring-projects/spring-framework/pull/35477
   - https://github.com/swagger-api/swagger-core/pull/4975
   - https://github.com/swagger-api/swagger-core/pull/5005
 # Stack 
