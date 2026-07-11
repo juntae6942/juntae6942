@@ -29,6 +29,7 @@
   - https://github.com/spring-projects/spring-framework/pull/35477
   - https://github.com/swagger-api/swagger-core/pull/4975
   - https://github.com/swagger-api/swagger-core/pull/5005
+  - https://github.com/redis/jedis/pull/4599
 # Stack 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
